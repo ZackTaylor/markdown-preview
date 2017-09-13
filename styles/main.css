@@ -1,0 +1,37 @@
+#app {
+  background-color: #3da0f2;
+}
+
+#main {
+  vertical-align: middle;
+  margin: 5% auto;
+  width: 95%;
+}
+
+.window-style {
+  background-color: white;
+  border: 5px solid #33201e;
+  margin: 1%;
+  min-width: 500px;
+}
+
+#title {
+  background-color: white;
+  border: 5px solid #33201e;
+  border-radius: 10px;
+}
+
+.input-preview {
+  overflow-y: scroll;
+  padding: 1%;
+  display: inline-block;
+  min-width: 45%;
+  max-width: 45%;
+  height: 50em;
+  overflow: auto;
+  text-align: left;
+}
+
+#two-columns {
+  margin: 2% auto;
+}
